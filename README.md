@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm currently a Tech Elevator Student
 
 <!--
 **Samuel-T-George/Samuel-T-George** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
